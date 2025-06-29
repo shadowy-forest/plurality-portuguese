@@ -26,3 +26,11 @@
 - [korean](https://github.com/parkhaewon0617/plurality)
 - [french](https://github.com/xitobal/radicalxchangeparis.github.io/tree/main/public/Plurality%2C%20le%20livre%20-%20G%20Weil)
 
+<br>
+
+### pluralistic essays
+
+<br>
+
+* [does digital ID have risks even if it's zk-wrapped?, by zkid](https://vitalik.eth.limo/general/2025/06/28/zkid.html)
+  
